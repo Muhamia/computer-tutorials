@@ -16,6 +16,17 @@
 
 还可能有其他一些拓展。
 
+## 访问方式
+
+- 在线阅读（TODO）
+- 离线版 PDF 文件下载（TODO）
+
+## 构建方式
+
+目前的打算：
+- 在线阅读版使用 MkDocs 构建，在 GitHub Pages 中部署。
+- 离线版 PDF 使用 Pandoc 或 MkDocs 构建。
+
 ## 联系作者
 
 - 木合买的秘密（邮箱： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com) ）
