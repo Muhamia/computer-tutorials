@@ -8,14 +8,14 @@
 
 下面我们以下载steam为例
 首先在浏览器搜索框输入steam
-![](../../../assets/images/1.3/steam.png)
+![](../../assets/images/1.3/steam.png)
 
 可以看到，第一个搜索结果就是官网
 https://store.steampowered.com/
 
 但是，事实上，搜索结果不一定就是官网
 下面我再用百度搜索一遍
-![](../../../assets/images/1.3/AD.png)
+![](../../assets/images/1.3/AD.png)
 
 可以看到，有很多不是正版的steam
 
