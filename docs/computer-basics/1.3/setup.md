@@ -8,7 +8,7 @@
 
 首先在浏览器搜索UU加速器并找到官网
 https://uu.163.com/download/
-![](../../../assets/images/1.3/UU.png)
+![](../../assets/images/1.3/UU.png)
 
 之后点击"立即下载"就可以了
 
@@ -22,7 +22,7 @@ https://uu.163.com/download/
 现在我们打开刚下载的安装包，然后选择路径，按照提示就可以完成安装
 
 大多数软件的安装都是这样，根据提示就可以了，唯一需要注意的就是选择路径，方便自己后续寻找软件的根目录
-![](../../../assets/images/1.3/setup.png)
+![](../../assets/images/1.3/setup.png)
 
 
 **注意** 许多人不建议把软件安装在C盘
