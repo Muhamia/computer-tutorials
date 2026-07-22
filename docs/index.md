@@ -6,7 +6,17 @@
 
 TODO（待填写）
 
-## 各板块间的依赖关系 & 学习路线
+## 结构
+
+本教程目前仍在编写中。
+
+本教程目前有如下单元：
+
+- [计算机基本素养](computer-basics/index.md) （作者：木合买的秘密）
+- [C 语言入门](programming-language-c/index.md) （作者：木合买的秘密）
+- [C++ 语言入门](programming-language-cpp/index.md) （作者：LS_Hower）
+
+## 各单元间的依赖关系 & 学习路线
 
 TODO
 
