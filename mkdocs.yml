@@ -9,14 +9,14 @@ nav:
 
   - 首页: index.md
 
-  - 第一部分:
-      - 01-computer-basics/index.md
-      # 下方是子部分的示例
-      #- 开关机: 01-computer-basics/01-turn-computer-on-and-off.md
-      #- 文件操作: 01-computer-basics/02-file-operations.md
+  - 计算机基本素养:
+    - computer-basics/index.md
+    # 下方是子部分的示例
+    #- 开关机: 01-computer-basics/01-turn-computer-on-and-off.md
+    #- 文件操作: 01-computer-basics/02-file-operations.md
 
-  - 第二部分:
-      - 02-the-c-programming-language/index.md
+  - C 语言入门:
+    - programming-language-c/index.md
 
-  - 第四部分:
-      - 04-c-to-cpp/index.md
+  - C++ 语言入门:
+    - programming-language-cpp/index.md
