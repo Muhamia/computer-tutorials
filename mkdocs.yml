@@ -7,8 +7,7 @@ theme:
 
 nav:
 
-  - 首页:
-      - index.md
+  - 首页: index.md
 
   - 第一部分:
       - 01-computer-basics/index.md
