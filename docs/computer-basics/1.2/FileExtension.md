@@ -42,7 +42,9 @@ exe
 | xls/xlsx | Excel表格      |
 | ppt/pptx | ppt幻灯片      |
 | pdf      | 便携式文档格式 |
+
 ##### 6.压缩包
 zip rar 7z
+
 ##### 7.网页文件
 html

@@ -1,6 +1,6 @@
 # 计算机教程
 
-（注：如果你正在手机上浏览本网站，那么你可能需要点击左上角的“三道杠”图标使侧栏显示出来，从而看到全貌。）
+（注：如果你正在手机上以在线网页的形式浏览本项目，那么你可能需要点击左上角的“三道杠”图标使侧栏显示出来，从而看到全貌。）
 
 ## 前言
 
@@ -16,7 +16,7 @@ TODO（待填写）
 
 - [计算机基本素养](computer-basics/index.md) （作者：木合买的秘密）
 - [C 语言入门](programming-language-c/index.md) （作者：木合买的秘密）
-- [C++ 语言入门](programming-language-cpp/index.md) （作者：LS_Hower）
+- [C++ 语言入门](programming-language-cpp/index.md) （作者：LS_Hower）（目前未编写实际内容）
 
 ## 各单元间的依赖关系 & 学习路线
 
@@ -31,7 +31,7 @@ TODO
 ## 联系作者
 
 - 木合买的秘密（邮箱： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com) ）
-- LS_Hower（邮箱： [`ls_hower@qq.com`](mailto:ls_hower@qq.com) ）
+- LS_Hower（邮箱： [`ls_hower@qq.com`](mailto:ls_hower@qq.com) ）(目前未编写实际内容)
 
 ## 源代码
 
