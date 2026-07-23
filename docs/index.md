@@ -1,5 +1,7 @@
 # 计算机教程
 
+（注：如果你正在手机上浏览本网站，那么你可能需要点击左上角的“三道杠”图标使侧栏显示出来，从而看到全貌。）
+
 ## 前言
 
 这是面向大学新生的、关于如何使用计算机的教程。
@@ -22,7 +24,9 @@ TODO
 
 ## 离线版下载
 
-[离线 PDF 下载](https://github.com/Muhamia/computer-tutorials/releases)
+暂时还没有离线版发行版。稍后会在下方这些链接所在的页面发布。
+
+- [离线 PDF 下载](https://github.com/Muhamia/computer-tutorials/releases)
 
 ## 联系作者
 
