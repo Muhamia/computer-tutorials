@@ -16,7 +16,7 @@ nav:
       - 键盘、鼠标、显示器: computer-basics/1.1/1.1.2/KeyBoardAndMouse.md
       - 电源: computer-basics/1.1/1.1.3/Power.md
       - CPU和GPU: computer-basics/1.1/1.1.45/CPUGPU.md
-      - 内存和硬盘: computer-basics/1.1/1.1.45/Memory.md
+      - 内存和硬盘 存储单位: computer-basics/1.1/1.1.45/Memory.md
     - 1.2 章:
       - 压缩与解压: computer-basics/1.2/conpress.md
       - 文件拓展名: computer-basics/1.2/FileExtension.md
