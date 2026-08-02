@@ -35,6 +35,50 @@ nav:
 
   - C 语言入门:
     - programming-language-c/index.md
+    - 2.1 章:
+      - 2.1.1 VS和VSC的简单介绍: programming-language-c/2.1/2.1.1.md
+      - 2.1.2 如何安装VS: programming-language-c/2.1/2.1.2.md
+    - 2.2 章:
+      - 2.2.1 在VS创建自己的第一个程序项目: programming-language-c/2.2/2.2.1.md
+      - 2.2.2 Hello world的输出: programming-language-c/2.2/2.2.2.md
+    - 2.3 章:
+      - 2.3.1 输入输出: programming-language-c/2.3/2.3.1.md
+      - 2.3.2 基本数据类型和数据存储: programming-language-c/2.3/2.3.2.md
+      - 2.3.3 变量与常量: programming-language-c/2.3/2.3.3.md
+      - 2.3.4 常见运算符: programming-language-c/2.3/2.3.4.md
+      - 2.3.5 分支结构: programming-language-c/2.3/2.3.5.md
+      - 2.3.6 循环结构: programming-language-c/2.3/2.3.6.md
+    - 2.4 章:
+      - 2.4.1 数组及其存储形式: programming-language-c/2.4/2.4.1.md
+      - 2.4.2 一维数组: programming-language-c/2.4/2.4.2.md
+      - 2.4.3 二维数组: programming-language-c/2.4/2.4.3.md
+      - 2.4.4 三维数组和高维数组: programming-language-c/2.4/2.4.4.md
+    - 2.5 章:
+      - 调试的操作方法: programming-language-c/2.5/2.5.1.md
+    - 2.6 章:
+      - 2.6.1 什么是函数: programming-language-c/2.6/2.6.1.md
+      - 2.6.2 如何定义和调用函数: programming-language-c/2.6/2.6.2.md
+      - 2.6.3 如何将数组作为参数传入函数: programming-language-c/2.6/2.6.3.md
+      - 2.6.4 递归: programming-language-c/2.6/2.6.4.md
+    - 2.7 章:
+      - 2.7.1 指针是什么: programming-language-c/2.7/2.7.1.md
+      - 2.7.2 指针的偏移: programming-language-c/2.7/2.7.2.md
+    - 2.8 章:
+      - 2.8.1 变量作用域与局部变量: programming-language-c/2.8/2.8.1.md
+      - 2.8.2 内存四区: programming-language-c/2.8/2.8.2.md
+      - 2.8.3 动态内存申请: programming-language-c/2.8/2.8.3.md
+    - 2.9 章:
+      - 2.9.1 指针数组与数组指针: programming-language-c/2.9/2.9.1.md
+      - 2.9.2 函数指针与指针函数: programming-language-c/2.9/2.9.2.md
+    - 2.10 章:
+      - 2.10.1 字符串的定义: programming-language-c/2.10/2.10.1.md
+      - 2.10.2 字符串的输入输出: programming-language-c/2.10/2.10.2.md
+      - 2.10.3 字符串常用函数: programming-language-c/2.10/2.10.3.md
+    - 2.11 章:
+      - 2.11.1 结构体的概念和应用: programming-language-c/2.11/2.11.1.md
+      - 2.11.2 结构体的定义: programming-language-c/2.11/2.11.2.md
+      - 2.11.3 typedef定义新类型: programming-language-c/2.11/2.11.3.md
+      - 2.11.4 枚举: programming-language-c/2.11/2.11.4.md
 
   - C++ 语言入门:
     - programming-language-cpp/index.md
