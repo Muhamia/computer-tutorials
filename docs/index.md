@@ -14,9 +14,8 @@ TODO（待填写）
 
 本教程目前有如下单元：
 
-- [计算机基本素养](computer-basics/index.md) （作者：木合买的秘密）
-- [C 语言入门](programming-language-c/index.md) （作者：木合买的秘密）
-- [C++ 语言入门](programming-language-cpp/index.md) （作者：LS_Hower）（目前未编写实际内容）
+- [计算机基本素养](computer-basics/index.md)
+- [C 语言入门](programming-language-c/index.md)
 
 ## 各单元间的依赖关系 & 学习路线
 
@@ -30,8 +29,12 @@ TODO
 
 ## 联系作者
 
-- 木合买的秘密（邮箱： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com) ）
-- LS_Hower（邮箱： [`ls_hower@qq.com`](mailto:ls_hower@qq.com) ）(目前未编写实际内容)
+- 木合买的秘密
+  - 邮箱： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com)
+  - 做的事：主要内容的编写
+- LS_Hower
+  - 邮箱： [`ls_hower@qq.com`](mailto:ls_hower@qq.com)
+  - 做的事：少量错误的修正
 
 ## 源代码
 
