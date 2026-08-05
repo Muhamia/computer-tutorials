@@ -6,35 +6,22 @@
 
 这是面向大学新生的、关于如何使用计算机的教程。
 
-TODO（待填写）
-
-## 结构
-
 本教程目前仍在编写中。
-
-本教程目前有如下单元：
-
-- [计算机基本素养](computer-basics/index.md)
-- [C 语言入门](programming-language-c/index.md)
-
-## 各单元间的依赖关系 & 学习路线
 
 TODO
 
-## 离线版下载
+## 结构
 
-暂时还没有离线版发行版。稍后会在下方这些链接所在的页面发布。
+本教程有两个部分，分别由两个作者各自编写。编写的内容有相交的地方，也有不同的地方。
 
-- [离线 PDF 下载](https://github.com/Muhamia/computer-tutorials/releases)
+可以打开左栏查看目录。
+
+以后可能会加入新章节。
 
 ## 联系作者
 
-- 木合买的秘密
-  - 邮箱： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com)
-  - 做的事：主要内容的编写
-- LS_Hower
-  - 邮箱： [`ls_hower@qq.com`](mailto:ls_hower@qq.com)
-  - 做的事：少量错误的修正
+- 木合买的秘密： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com)
+- LS_Hower： [`ls_hower@qq.com`](mailto:ls_hower@qq.com)
 
 ## 源代码
 
