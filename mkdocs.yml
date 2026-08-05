@@ -16,6 +16,12 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
 
@@ -96,7 +102,8 @@ nav:
         - 2.12.1 链表: programming-language-c/2.12/2.12.1.md
   - "作者: LS_Hower":
     - 数据与文件:
-      - ls/data-and-files/index.md
+      - 主页: ls/data-and-files/index.md
+      - 用数字表示文字: ls/data-and-files/010-words-as-numbers.md
     - C 语言:
       - ls/c/index.md
     - C++ 语言的主干:
