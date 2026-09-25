@@ -100,6 +100,13 @@ nav:
         - 2.11.4 枚举: programming-language-c/2.11/2.11.4.md
       - 2.12 章:
         - 2.12.1 链表: programming-language-c/2.12/2.12.1.md
+        - 2.12.2 栈: programming-language-c/2.12/2.12.2.md
+        - 2.12.3 队列: programming-language-c/2.12/2.12.3.md
+        - 2.12.4 二叉树: programming-language-c/2.12/2.12.4.md
+      - 2.13 章:
+        - 2.13.1 什么是算法: programming-language-c/2.13/2.13.1.md
+        - 2.13.2 冒泡排序: programming-language-c/2.13/2.13.2.md
+        - 2.13.3 二分查找: programming-language-c/2.13/2.13.3.md
   - "作者: LS_Hower":
     - 数据与文件:
       - 主页: ls/data-and-files/index.md
