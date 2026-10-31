@@ -12,8 +12,6 @@ TODO
 
 ## 结构
 
-本教程有两个部分，分别由两个作者各自编写。编写的内容有相交的地方，也有不同的地方。
-
 可以打开左栏查看目录。
 
 以后可能会加入新章节。
@@ -21,7 +19,6 @@ TODO
 ## 联系作者
 
 - 木合买的秘密： [`mhmdmm@qq.com`](mailto:mhmdmm@qq.com)
-- LS_Hower： [`ls_hower@qq.com`](mailto:ls_hower@qq.com)
 
 ## 源代码
 
